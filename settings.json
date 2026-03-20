@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mitu24.aternos.me",
-    "port": 22237,
-    "version": "",
+    "ip": "smptest-Dgzb.aternos.me",
+    "port": 62013,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
